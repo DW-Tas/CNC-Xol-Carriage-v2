@@ -1,12 +1,13 @@
-# CNC Xol-Carriage Version 2
+# CNC Xol-Carriage - Version 2
 
-The official version 2 CNC Xol-Carriage from: [![ko-fi](docs/images/Ko-fi_smol.png)](https://ko-fi.com/O5O5OCC0K) [DW-Tas](https://github.com/DW-Tas)<br><br><br>
-A CNC version of Xol-Carriage for stock Voron v2.4 / Trident and Monolith Gantry printers manufactured by LDO. <br/><br>
-<img src='docs/images/Xol-Carriage-v2.png' width=600><br>
-<img src='docs/images/LDO.png' width=60><br>
-
-<br><br>
-
+The official version 2 of CNC Xol-Carriage by: [![ko-fi](docs/images/Ko-fi_smol.png)](https://ko-fi.com/O5O5OCC0K) [DW-Tas](https://github.com/DW-Tas)<br><br><br>
+A CNC version of Xol-Carriage for stock Voron v2.4 / Trident and Monolith Gantry printers.<br>
+Manufactured by LDO.<br>
+<br>
+<img src='docs/images/Xol-Carriage-v2.png' width=600>
+<img src='docs/images/LDO.png' width=90 style='vertical-align: bottom;'><br>
+<br>
+<br>
 
 ## Frequently Asked Questions (FAQ)
 
