@@ -15,11 +15,17 @@ Manufactured by LDO.<br>
 
   <dt>What gantry configurations are supported by Version 2 CNC Xol-Carriage</dt>
   <dd>Version 2 Xol-Carriage comes in two types<br>
-   ~ Monolith Gantry (up to 10mm belts)<br>
+   ~ Monolith Gantry (up to 12mm belts)<br>
    ~ Voron stock gantry (6mm belts only)</dd>
 
   <dt>Do I need printed parts?</dt>
   <dd>Yes. You need to print a probe module from the <a href="./Probe_Modules/">Probe_Modules</a> folder in this repository for your probe type</dd>
+
+  <dt>What probe types are supported</dt>
+  <dd>There are curently probe modules for:<br>
+   ~ Beacon / Cartographer<br>
+   ~ Klicky<br>
+   ~ PCB Klicky</dd>
 
   <dt>What is the Y offset for Becaon/Cartographer with A4T/Xol</dt>
   <dd>The Y offiset is 24mm</dd>
@@ -30,6 +36,16 @@ Manufactured by LDO.<br>
    ~ The Monolith Gantry type is attached with M3x8 BHCS</dd>
 
 </dl>
+
+<br>
+<br>
+
+## Credits
+
+The Monolith Gantry version includes the Monolith CNC Universal belt clamp by [CloakedWayne](https://github.com/CloakedWayne).
+
+<br>
+<br>
 
 > [!TIP] 
 > ### You can help support the development of my projects.<br/>
