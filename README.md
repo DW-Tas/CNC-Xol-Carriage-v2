@@ -1,5 +1,7 @@
 # CNC Xol-Carriage - Version 2
 
+## Comming Soon™️
+
 The official version 2 of CNC Xol-Carriage by: [![ko-fi](docs/images/Ko-fi_smol.png)](https://ko-fi.com/O5O5OCC0K) [DW-Tas](https://github.com/DW-Tas)<br><br><br>
 A CNC version of Xol-Carriage for stock Voron v2.4 / Trident and Monolith Gantry printers.<br>
 Manufactured by LDO.<br>
@@ -12,6 +14,9 @@ Manufactured by LDO.<br>
 ## Frequently Asked Questions (FAQ)
 
 <dl>
+
+  <dt>When can I buy it?</dt>
+  <dd>The CNC carriage is expected to begin manufacturying in mid October 2026. A firm release date is not currently known.<br>Comming Soon™️</dd>
 
   <dt>What gantry configurations are supported by Version 2 CNC Xol-Carriage</dt>
   <dd>Version 2 Xol-Carriage comes in two types<br>
