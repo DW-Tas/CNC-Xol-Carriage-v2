@@ -1,13 +1,13 @@
 # CNC Xol-Carriage - Version 2
 
-The official version 2 of CNC Xol-Carriage by [DW-Tas](https://github.com/DW-Tas) [![ko-fi](docs/images/Ko-fi_smol.png)](https://ko-fi.com/O5O5OCC0K)<br>
+The official version 2 of CNC Xol-Carriage by [DW-Tas](https://github.com/DW-Tas) [![ko-fi](images/Ko-fi_smol.png)](https://ko-fi.com/O5O5OCC0K)<br>
 ## Coming Soon™️
 
 A CNC version of Xol-Carriage for stock Voron v2.4 / Trident and Monolith Gantry printers.<br>
 Manufactured by LDO.<br>
 <br>
-<img src='docs/images/Xol-Carriage-v2.png' width=600>
-<img src='docs/images/LDO.png' width=90 style='vertical-align: bottom;'><br>
+<img src='images/Xol-Carriage-v2.png' width=600>
+<img src='images/LDO.png' width=90 style='vertical-align: bottom;'><br>
 <br>
 <br>
 
@@ -55,7 +55,7 @@ The Monolith Gantry version includes the Monolith CNC Universal belt clamp by [C
 > [!TIP] 
 > ### You can help support the development of my projects.<br/>
 > Donate at https://ko-fi.com/dwtas<br/>
-[![ko-fi](docs/images/Ko-fi_TextLogo.png)](https://ko-fi.com/dwtas)
+[![ko-fi](images/Ko-fi_TextLogo.png)](https://ko-fi.com/dwtas)
 
 <br/><br/>
 
