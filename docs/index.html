@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" type="image/png" sizes="64x64" href="./assets/favicon-BvKlTLce.png" />
+    <title>Assembly manual</title>
+    <style>
+      html { background: #f7f8fa; color: #253247; }
+      html[data-reader-theme="dark"] { background: #14191f; color: #e3e9f1; }
+      @media (prefers-color-scheme: dark) { html:not([data-reader-theme="light"]) { background: #14191f; color: #e3e9f1; } }
+    </style>
+    <script>
+      try {
+        const theme = localStorage.getItem('assembly-reader-theme-v1');
+        document.documentElement.dataset.readerTheme = theme === 'dark' || (theme !== 'light' && matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'light';
+      } catch {
+        document.documentElement.dataset.readerTheme = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        document.documentElement.dataset.readerThemeStorage = 'unavailable';
+      }
+    </script>
+    <script type="module" crossorigin src="./assets/reader-DkftnhXL.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/reader-tOOukxTz.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
