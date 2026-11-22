@@ -1,5 +1,7 @@
 # CNC Xol-Carriage - Version 2
 
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
 The official version 2 of CNC Xol-Carriage by [DW-Tas](https://github.com/DW-Tas) [![ko-fi](images/Ko-fi_smol.png)](https://ko-fi.com/O5O5OCC0K)<br>
 ## Coming Soon™️
 
@@ -59,3 +61,17 @@ The Monolith Gantry version includes the Monolith CNC Universal belt clamp by [C
 
 <br/><br/>
 
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+### License clarification regarding non-commercial use:
+The non-commercial aspect of this license is for cases where CNC Xol-Carriage v2 is the product, not the use of CNC Xol-Carriage v2 to create products.<br/>
+For example, if you wish to manufacture or sell CNC Xol-Carriage v2 as a product, you would need to seek a commercial license before doing so. </br>
+It is NOT intended to prevent the use of CNC Xol-Carriage v2 in a printer that you use to provide commercial services. If you want to run CNC Xol-Carriage v2 as a carriage for your print farm printers, go right ahead.
